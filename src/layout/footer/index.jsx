@@ -85,7 +85,7 @@ const Footer = () => {
             content, events and more!
           </li>
           <li>
-            <form className={clsx(styles.form)}>
+            <form className={clsx(styles.footer_form)}>
               <input type="email" /> <button>Send</button>{" "}
             </form>
           </li>

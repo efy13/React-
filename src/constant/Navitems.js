@@ -1,7 +1,7 @@
 export const navBar = [
     {
       id: 1,
-      path: "/home",
+      path: "/",
       name: "Home",
       icon: " <ChevronDown />",
     },
